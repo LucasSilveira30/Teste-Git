@@ -27,7 +27,7 @@ A proposta é utilizar este ambiente como laboratório para praticar comandos, v
 
 ---
 
-## 📚 Comandos Testados
+## Comandos Testados
 
 Alguns exemplos de comandos utilizados neste repositório:
 
