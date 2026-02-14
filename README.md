@@ -31,15 +31,15 @@ A proposta é utilizar este ambiente como laboratório para praticar comandos, v
 
 Alguns exemplos de comandos utilizados neste repositório:
 
-git init
-git clone
-git add .
-git commit -m "mensagem"
-git branch
-git pull
-git push
-git revert
-git reset
+- git init
+- git clone
+- git add .
+- git commit -m "mensagem"
+- git branch
+- git pull
+- git push
+- git revert
+- git reset
 
 ---
 
